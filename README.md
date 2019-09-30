@@ -9,3 +9,4 @@
 - PoolParty
 - Gephi RDF plugin
 - d3sparql
+- LOD map
