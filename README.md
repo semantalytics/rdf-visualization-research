@@ -12,16 +12,20 @@
 - [tabulator](https://github.com/linkeddata/tabulator)
 - [linkurious](https://linkurio.us/)
 - [Visallo](https://www.visallo.com/)
-- [theBrain](https://thebrain.com/)
-- [vega](https://vega.github.io/vega/)
-- [d3](https://d3js.org/)
 - pylorus
-- [graphviz](http://www.graphviz.org/)
 - [LinkDA-tools](https://github.com/LinDA-tools/Visualization)
 - [CubeViz](http://aksw.org/Projects/CubeViz.html)
 - [relfinder](http://www.visualdataweb.org/relfinder.php)
 - [sgvizler](http://mgskjaeveland.github.io/sgvizler/)
 - [RDFScape](http://www.bioinformatics.org/rdfscape/wiki/)
+
+## Non-RDF visualization
+
+- [Walrus](https://www.caida.org/tools/visualization/walrus/)
+- [graphviz](http://www.graphviz.org/)
+- [theBrain](https://thebrain.com/)
+- [d3](https://d3js.org/)
+- [vega](https://vega.github.io/vega/)
 
 ## Papers
 - [Exploration and Visualization in the Web of Big Linked Data: A Survey of the State of the Art 2016](https://arxiv.org/pdf/1601.08059.pdf)
