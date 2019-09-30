@@ -9,14 +9,15 @@
 - [PoolParty](https://www.poolparty.biz/)
 - [Gephi SemanticWebImport plugin](https://github.com/gephi/gephi/wiki/SemanticWebImport)
 - [d3sparql](https://github.com/zazuko/d3-sparql)
-- LOD map
+- [LOD Cloud](https://lod-cloud.net/)
 - [tabulator](https://github.com/linkeddata/tabulator)
-- linkurious
-- visalla
+- [linkurious](https://linkurio.us/)
+- [Visallo](https://www.visallo.com/)
 - [theBrain](https://thebrain.com/)
 - vega
 - d3
 - pylorus
+- [graphviz](http://www.graphviz.org/)
 
 ## Papers
 - [Exploration and Visualization in the Web of Big Linked Data: A Survey of the State of the Art 2016](https://arxiv.org/pdf/1601.08059.pdf)
