@@ -10,3 +10,5 @@
 - d3sparql
 - LOD map
 - [tabulator](https://github.com/linkeddata/tabulator)
+- linkurious
+- visalla
