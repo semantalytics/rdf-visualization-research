@@ -5,7 +5,6 @@
 - [marbles](http://mes.github.io/marbles/)
 - [VOWL](http://vowl.visualdataweb.org/)
 - [RMLEditor](http://rml.io/RMLeditor.html)
-- OntMap
 - [PoolParty](https://www.poolparty.biz/)
 - [Gephi SemanticWebImport plugin](https://github.com/gephi/gephi/wiki/SemanticWebImport)
 - [d3sparql](https://github.com/zazuko/d3-sparql)
@@ -14,11 +13,12 @@
 - [linkurious](https://linkurio.us/)
 - [Visallo](https://www.visallo.com/)
 - [theBrain](https://thebrain.com/)
-- vega
-- d3
+- [vega](https://vega.github.io/vega/)
+- [d3](https://d3js.org/)
 - pylorus
 - [graphviz](http://www.graphviz.org/)
 - [LinkDA-tools](https://github.com/LinDA-tools/Visualization)
+- [CubeViz](http://aksw.org/Projects/CubeViz.html)
 
 ## Papers
 - [Exploration and Visualization in the Web of Big Linked Data: A Survey of the State of the Art 2016](https://arxiv.org/pdf/1601.08059.pdf)
