@@ -1,18 +1,21 @@
 # rdf-visualization-research
 
 - Linked Data Maps [paper](http://ceur-ws.org/Vol-1472/IESD_2015_paper_2.pdf) [code](https://github.com/fabiovalse/dbpedia_atlas)
-- Pubby
-- marbles
-- VOWL
+- [Pubby](http://wifo5-03.informatik.uni-mannheim.de/pubby/)
+- [marbles](http://mes.github.io/marbles/)
+- [VOWL](http://vowl.visualdataweb.org/)
+- [RMLEditor](http://rml.io/RMLeditor.html)
 - OntMap
-- PoolParty
-- Gephi RDF plugin
-- d3sparql
+- [PoolParty](https://www.poolparty.biz/)
+- [Gephi SemanticWebImport plugin](https://github.com/gephi/gephi/wiki/SemanticWebImport)
+- [d3sparql](https://github.com/zazuko/d3-sparql)
 - LOD map
 - [tabulator](https://github.com/linkeddata/tabulator)
 - linkurious
 - visalla
+- [theBrain](https://thebrain.com/)
+- vega
+- d3
 
 ## Papers
-- [Exploration and Visualization in the Web of Big Linked
-Data: A Survey of the State of the Art 2016](https://arxiv.org/pdf/1601.08059.pdf)
+- [Exploration and Visualization in the Web of Big Linked Data: A Survey of the State of the Art 2016](https://arxiv.org/pdf/1601.08059.pdf)
