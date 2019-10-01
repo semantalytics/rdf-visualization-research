@@ -18,6 +18,7 @@
 - [relfinder](http://www.visualdataweb.org/relfinder.php)
 - [sgvizler](http://mgskjaeveland.github.io/sgvizler/)
 - [RDFScape](http://www.bioinformatics.org/rdfscape/wiki/)
+- [Triple20](https://www.swi-prolog.org/web/Triple20.html)
 
 ## Non-RDF visualization
 
