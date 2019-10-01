@@ -20,6 +20,7 @@
 - [RDFScape](http://www.bioinformatics.org/rdfscape/wiki/)
 - [Triple20](https://www.swi-prolog.org/web/Triple20.html)
 - [RDF4U](https://github.com/Rathachai/rdf4u)
+- [OWLGrEd](http://owlgred.lumii.lv/about)
 
 ## Non-RDF visualization
 
