@@ -22,6 +22,7 @@
 - [RDF4U](https://github.com/Rathachai/rdf4u)
 - [OWLGrEd](http://owlgred.lumii.lv/about)
 - [Viziquer](https://viziquer.lumii.lv/)
+- [ontodia](https://github.com/metaphacts/ontodia)
 
 ## Non-RDF visualization
 
