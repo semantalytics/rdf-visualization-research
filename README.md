@@ -23,6 +23,7 @@
 - [OWLGrEd](http://owlgred.lumii.lv/about)
 - [Viziquer](https://viziquer.lumii.lv/)
 - [ontodia](https://github.com/metaphacts/ontodia)
+- GraphDL [github](https://github.com/jgromero/graphdl) [paper](https://www.researchgate.net/publication/327886079_GraphDL_An_Ontology_for_Linked_Data_Visualization_18th_Conference_of_the_Spanish_Association_for_Artificial_Intelligence_CAEPIA_2018_Granada_Spain_October_23-26_2018_Proceedings)
 
 ## Non-RDF visualization
 
