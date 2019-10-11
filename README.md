@@ -24,6 +24,8 @@
 - [Viziquer](https://viziquer.lumii.lv/)
 - [ontodia](https://github.com/metaphacts/ontodia)
 - GraphDL [github](https://github.com/jgromero/graphdl) [paper](https://www.researchgate.net/publication/327886079_GraphDL_An_Ontology_for_Linked_Data_Visualization_18th_Conference_of_the_Spanish_Association_for_Artificial_Intelligence_CAEPIA_2018_Granada_Spain_October_23-26_2018_Proceedings)
+- [SQuaRE](http://ceur-ws.org/Vol-1690/paper62.pdf)
+- [Juma-R2RML](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/)
 
 ## Non-RDF visualization
 
