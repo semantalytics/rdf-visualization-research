@@ -28,6 +28,7 @@
 - [Juma-R2RML](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/)
 - [MapOn](https://github.com/arc-lasalle/Map-On)
 - [wysiwyq](http://ld-r.org/docs/wysiwyq.html)
+- [FaRBIE](https://github.com/LiDaKrA/FaRBIE)
 
 ## Non-RDF visualization
 
