@@ -39,6 +39,7 @@
 - [vega](https://vega.github.io/vega/)
 
 ## Papers
+- [How to Best Find a Partner? An Evaluation of Editing Approaches to Construct R2RML Mappings](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/ESWC14_paper_189.pdf)
 - [Exploration and Visualization in the Web of Big Linked Data: A Survey of the State of the Art 2016](https://arxiv.org/pdf/1601.08059.pdf)
 - [Node-centric RDF Graph Visualization](https://www.hpl.hp.com/techreports/2004/HPL-2004-60.pdf)
 - [LinkDaViz](https://www.researchgate.net/publication/300337259_LinkDaViz_-_Automatic_Binding_of_Linked_Data_to_Visualizations)
