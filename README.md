@@ -29,6 +29,7 @@
 - [MapOn](https://github.com/arc-lasalle/Map-On)
 - [wysiwyq](http://ld-r.org/docs/wysiwyq.html)
 - [FaRBIE](https://github.com/LiDaKrA/FaRBIE)
+- [MapVOWL](http://rml.io/mapvowl/)
 
 ## Non-RDF visualization
 
