@@ -40,6 +40,7 @@
 - [vega](https://vega.github.io/vega/)
 
 ## Papers
+- [Linked Open Data Visualization Revisited: A Survey](http://www.semantic-web-journal.net/system/files/swj937.pdf)
 - [On Coherent Indented Tree Visualization of RDF Graphs](http://ws.nju.edu.cn/r2t/coherent-tree-report2015.pdf)
 - [How to Best Find a Partner? An Evaluation of Editing Approaches to Construct R2RML Mappings](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/ESWC14_paper_189.pdf)
 - [Exploration and Visualization in the Web of Big Linked Data: A Survey of the State of the Art 2016](https://arxiv.org/pdf/1601.08059.pdf)
