@@ -40,6 +40,7 @@
 - [vega](https://vega.github.io/vega/)
 
 ## Papers
+- [Handling the Complexity of RDF Data: Combining List and Graph Visualization](https://interactivesystems.info/system/pdfs/80/original/19281.pdf?1560346032)
 - [Linked Open Data Visualization Revisited: A Survey](http://www.semantic-web-journal.net/system/files/swj937.pdf)
 - [On Coherent Indented Tree Visualization of RDF Graphs](http://ws.nju.edu.cn/r2t/coherent-tree-report2015.pdf)
 - [How to Best Find a Partner? An Evaluation of Editing Approaches to Construct R2RML Mappings](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/ESWC14_paper_189.pdf)
