@@ -1,5 +1,7 @@
 # rdf-visualization-research
 
+- [viso-ontology](https://github.com/viso-ontology/viso-ontology)
+- [LDVM](https://github.com/ldvm)
 - Linked Data Maps [paper](http://ceur-ws.org/Vol-1472/IESD_2015_paper_2.pdf) [code](https://github.com/fabiovalse/dbpedia_atlas)
 - [Pubby](http://wifo5-03.informatik.uni-mannheim.de/pubby/)
 - [marbles](http://mes.github.io/marbles/)
@@ -40,6 +42,7 @@
 - [vega](https://vega.github.io/vega/)
 
 ## Papers
+- http://iswc2012.semanticweb.org/sites/default/files/paper_29.pdf
 - [Handling the Complexity of RDF Data: Combining List and Graph Visualization](https://interactivesystems.info/system/pdfs/80/original/19281.pdf?1560346032)
 - [Linked Open Data Visualization Revisited: A Survey](http://www.semantic-web-journal.net/system/files/swj937.pdf)
 - [On Coherent Indented Tree Visualization of RDF Graphs](http://ws.nju.edu.cn/r2t/coherent-tree-report2015.pdf)
